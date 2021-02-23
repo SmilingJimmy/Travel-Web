@@ -42,3 +42,12 @@ Travel Web is a free website for searching travel destinations while getting use
   We give first priority to the **interaction with users**. Users can choose to view the relevant content of any city in the country; users can also choose the scenic spots they want to visit, and we provide them with the design of the best route; they can also choose to view the hotel information in a certain price range.
 
   We also pay attention to the summary of information and statistics of data. Whether it is hot spots, hotel prices or weather conditions, we use scientific methods to make statistics, and use **pygal** and **pyecharts** libraries to design **good-looking charts or maps** for display.
+
+## Copyright
+
+- *Zhijun He*
+
+- *Wanjia Chen*
+
+- *Yuanjing Lin*
+
