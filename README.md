@@ -4,14 +4,14 @@ Travel Web is a free website for searching travel destinations while getting use
 
 ## Contact
 
-- *Address
+- Address
 
-  Lingnan College, Sun Yat-sen University
+  *Lingnan College, Sun Yat-sen University*
   
-  No. 135, West Xingang Road
+  *No. 135, West Xingang Road*
   
-  Haizhu District, Guangzhou
+  *Haizhu District, Guangzhou*
   
-- *Tel
+- Tel
 
-  +86 2084114183
+  *+86 2084114183*
